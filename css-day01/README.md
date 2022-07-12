@@ -1,6 +1,6 @@
 # CSS day01
 
-![](2022-07-12-11-41-53.png)
+![](img/2022-07-12-11-41-53.png)
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/zhao-zihan-the-scripter/pen/PoRGpKx](https://codepen.io/zhao-zihan-the-scripter/pen/PoRGpKx).
 
@@ -45,4 +45,4 @@ box-shadow: none;
 
 ## final result
 
-![](2022-07-12-11-40-20.png)
+![](img/2022-07-12-11-40-20.png)
