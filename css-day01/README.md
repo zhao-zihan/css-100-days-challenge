@@ -38,9 +38,9 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/zhao-zihan-the-sc
 - shadow
 
 ```CSS
-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 
-box-shadow: none;
+  box-shadow: none;
 ```
 
 ## final result
